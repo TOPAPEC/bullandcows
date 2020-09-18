@@ -1,2 +1,3 @@
 # bullandcows
-Bull and cow game
+Bulls and Cows game
+https://en.wikipedia.org/wiki/Bulls_and_Cows
