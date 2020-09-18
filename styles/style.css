@@ -1,0 +1,26 @@
+@font-face {
+  font-family: Huntsman;
+  src: url('../fonts/Huntsman.otf')
+}
+
+html {
+  background: #ffd1dc;
+  padding: 0px  ;
+}
+body {
+  padding: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  min-height: 100vh;
+  background: #fff;
+  border: 3px solid #c0c0c0;
+}
+#like_button_container, #ress, #output {
+  padding:20px;
+
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Open Sans", sans-serif;
+  background: #fff
+}
